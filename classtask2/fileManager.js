@@ -66,7 +66,6 @@ async function listDirectory(dirPath) {
     handleError(error);
   }
 }
-
 (async () => {
   switch (command) {
     case "read":
