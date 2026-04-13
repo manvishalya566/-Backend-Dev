@@ -1,3 +1,0 @@
-findOneAndUpdate() vs updateOne()
-findOneAndUpdate() → updates and returns the updated document
-updateOne() → updates but returns only status (not the document)
